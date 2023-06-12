@@ -17,7 +17,7 @@ Keep a user up-to-date with our new product offerings via marketing channels lik
 How can a user get this information deleted?
 We respect a user’s privacy and hence gives them the option to delete their collected information. They can follow the simple steps below to get their data deleted:
 
-Drop an email at this address hello@programminghub.io and mention your request to delete the data
+Drop an email at this address harishsaifi2003@gmail.com and mention your request to delete the data
 You can read more about a user’s right to erasure in the below section related to GDPR rules.
 
 When do we collect information?
@@ -48,7 +48,7 @@ Notification Settings - allows you to choose which communications you receive fr
 
 If we send you electronic marketing messages based on your consent or as otherwise permitted by applicable law, you may, at any time, respectively withdraw such consent or declare your objection ("opt-out") at no cost. The electronic marketing messages you receive from Programming Hub (e.g. those sent via email) also will include an opt-out mechanism within the message itself (e.g. an unsubscribe link in the emails we send to you).
 
-You can find out more about the GDPR rights described above and the controls we provide to all Programming Hub users with respect to these rights in the ‘Your Rights’ section contained in the Privacy Policy. If you have any questions about your privacy, your rights, or how to exercise them, please contact our team using the ‘Contact Us’ form on our website or write a mail to us at hello@programminghub.io. We will respond to your request within a reasonable period of time upon verification of your identity.
+You can find out more about the GDPR rights described above and the controls we provide to all Programming Hub users with respect to these rights in the ‘Your Rights’ section contained in the Privacy Policy. If you have any questions about your privacy, your rights, or how to exercise them, please contact our team using the ‘Contact Us’ form on our website or write a mail to us at harishsaifi@2003@gmail.com. We will respond to your request within a reasonable period of time upon verification of your identity.
 
 Cookie Policy for Programming Hub
 What Are Cookies
