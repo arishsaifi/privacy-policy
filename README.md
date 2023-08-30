@@ -44,8 +44,6 @@ the right to object to your personal data being processed for direct marketing p
 
 In order to enable you to exercise these rights with ease and to record your preferences in relation to how Programming Hub uses your personal data, we provide you with access to the following settings via your Account Settings page:
 
-Notification Settings - allows you to choose which communications you receive from Programming Hub.
-
 If we send you electronic marketing messages based on your consent or as otherwise permitted by applicable law, you may, at any time, respectively withdraw such consent or declare your objection ("opt-out") at no cost. The electronic marketing messages you receive from Programming Hub (e.g. those sent via email) also will include an opt-out mechanism within the message itself (e.g. an unsubscribe link in the emails we send to you).
 
 You can find out more about the GDPR rights described above and the controls we provide to all Programming Hub users with respect to these rights in the ‘Your Rights’ section contained in the Privacy Policy. If you have any questions about your privacy, your rights, or how to exercise them, please contact our team using the ‘Contact Us’ form on our website or write a mail to us at harishsaifi2003@gmail.com. We will respond to your request within a reasonable period of time upon verification of your identity.
