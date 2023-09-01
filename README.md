@@ -2,6 +2,8 @@
 <h3>Introduction</h3>
  we want to give you the best possible experience to ensure that you enjoy our service today, tomorrow, and in the future. To do this we need to understand your learning habits so we can deliver an exceptional and personalized learning experience specifically for you. That said, your privacy and the security of your personal data is, and will always be, enormously important to us. So, we want to transparently explain how and why we gather, store, share and use your personal data - as well as outline the controls and choices you have around when and how you choose to share your personal data. That is our objective, and this Privacy Policy ("Policy") will explain exactly what we mean in further detail below.
 
+one day
+
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website/app.
 
 What Data do we collect?
